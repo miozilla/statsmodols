@@ -12,6 +12,7 @@ statsmodols : Linear Regression Model # statsmodels.formula.api.ols # train # fi
 ## OLS Linear Regression ML Model
 
 Predicted Value = β₀ + β₁·x₁ + β₂·x₂ + ... + βₚ·xₚ + ϵ
+
 Where:
 - β₀ = intercept
 - β₁, β₂, ..., βₚ = regression coefficients
